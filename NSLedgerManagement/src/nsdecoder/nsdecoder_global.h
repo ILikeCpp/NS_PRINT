@@ -1,0 +1,12 @@
+#ifndef NSDECODER_GLOBAL_H
+#define NSDECODER_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(NSDECODER_LIBRARY)
+#  define NSDECODERSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define NSDECODERSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // NSDECODER_GLOBAL_H

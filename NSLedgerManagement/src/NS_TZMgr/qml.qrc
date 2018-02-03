@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/work">
+        <file>main.qml</file>
+        <file>QML/work/HomeMain.qml</file>
+        <file>QML/work/MainForm.qml</file>
+        <file>QML/work/BQDY/BQDY_CustomPrint.qml</file>
+        <file>QML/work/BQDY/BQDY_Mgr.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>source/image/home/back.png</file>
+        <file>source/image/home/logo.png</file>
+        <file>source/image/home/more.png</file>
+        <file>source/image/home/打印.png</file>
+        <file>source/image/home/矩形-1.png</file>
+        <file>source/image/com/load.png</file>
+    </qresource>
+    <qresource prefix="/NSComponent">
+        <file>NSComponent/NSButton.qml</file>
+        <file>NSComponent/NSInput.qml</file>
+        <file>NSComponent/NSMenu.qml</file>
+        <file>NSComponent/NSMessageBox.qml</file>
+        <file>NSComponent/NSShowMessage.qml</file>
+        <file>NSComponent/NSText.qml</file>
+        <file>NSComponent/QuitConfirmForm.qml</file>
+        <file>NSComponent/WholeCover.qml</file>
+    </qresource>
+</RCC>
